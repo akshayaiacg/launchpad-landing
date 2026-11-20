@@ -1,0 +1,20 @@
+{
+  "name": "anime-residential-program",
+  "version": "1.0.0",
+  "description": "Two-Year Residential Anime & Manga Career Program (India to Japan Pathway)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@vitejs/plugin-react": "^6.3.0",
+    "lucide-react": "^1.77.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.8"
+  }
+}
